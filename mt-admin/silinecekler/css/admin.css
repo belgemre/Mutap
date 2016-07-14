@@ -1,0 +1,7 @@
+/*-------------------------GENEL-------------------------*/ 
+.main{background-color: #fff !Important;padding:25px !Important;margin-top:20px; margin-bottom:5px;box-shadow: 1px 1px 3px rgba(0,0,0,0.2);}
+
+
+/*-------------------------Üye Paneli-------------------------*/ 
+.uyepaneladmin{width:300px; margin:0 auto; margin-top:100px;margin-bottom:253px;}
+.uyepaneladmin img {width:200px; margin-bottom:20px;}
